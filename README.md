@@ -14,8 +14,4 @@
 - Főoldalon egy üzenőfal a bejelentkezettek számára
 - Főoldalon akutális hírek megjelenítése a reptérrel kapcsolatban
 
-okt25
-o27
-o28
-nov1
-nov5!
+nov11
