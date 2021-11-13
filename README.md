@@ -13,5 +13,3 @@
   - Fel és leszállások dátuma, időtartama, gép típus, oktató név és vizsgafok, utas név és vizsgafok, stb.
 - Főoldalon egy üzenőfal a bejelentkezettek számára
 - Főoldalon akutális hírek megjelenítése a reptérrel kapcsolatban
-
-nov11
